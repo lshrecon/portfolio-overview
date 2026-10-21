@@ -1,0 +1,43 @@
+{
+  "updated": "2026-10-21",
+  "description": "Public source pages and app screenshots used to prepare this documentation; organized summary, not raw AI conversation logs.",
+  "sources": [
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/work-catalog.json",
+      "sha256": "d63af01c3e0ebb6d5eeda7f4212e0341a86b3051c906b4ef63475473666079ca"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/ko/work-catalog.json",
+      "sha256": "d930c17293fb09a02869bed6d0e7ce5681302563c93dd664e4528f35092ec1d0"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/works/basslab.html",
+      "sha256": "d6ef1e0bd7924547ba99c3eb07711bc96119218aba9e13afec715727d55ebb9b"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/works/financial-rag.html",
+      "sha256": "ddea95fd2d83e71f8739d99f4b4ce430276ae401002dab27016bd35f4df11cf7"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/works/financial-ml.html",
+      "sha256": "9856d140bd5f4d387870f49db8eaad356bd276cc29c9dee6e0a82fe466ce3ca8"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/works/business-simulation-bi.html",
+      "sha256": "bf1cfdab6dbf5036ccd56457840d0ca87f5ce6a1d8eb3d248d78825138759e6f"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/assets/basslab/training.png",
+      "sha256": "c684b70a84201bd46232cc8a5cc87d5ee5ea85d61804a215e0921de33642498a"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/assets/basslab/score-editor.png",
+      "sha256": "c022e96e3b4cd2bc47e11d1cab3d65dfde072725e52e432c8bea236efea3f704"
+    },
+    {
+      "url": "https://seunghun-data-portfolio.lsrrokmv.chatgpt.site/assets/basslab/recording-results.png",
+      "sha256": "8a6a22b3239200332444e06f2dd6eaeafe24e80d42c4da59b94656369b8cb5f1"
+    }
+  ],
+  "user_confirmed_addition": "In the BI team project, prepared about two periods of examples, divided remaining data organization among members, monitored progress and completed delayed portions."
+}
